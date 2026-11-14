@@ -156,7 +156,7 @@ O SkillMatch se relaciona aos Objetivos de Desenvolvimento Sustentável (ODS):
 ## 👥 Equipe
 
 - **Ana Júlia Monteiro Lemes**
-- **Júlio Félix Quintero de Assis**
+- **Julio Felix Quintero de Assis**
 - **Thamiris Bernal Molina**
 
 **Instituição:** Universidade de Mogi das Cruzes (UMC).
